@@ -1,3 +1,8 @@
+// If we follow the code along we see when button is pushed the the sequence begins. Ive started the code by declaring a few varibles just to make the code slightly more modular if I wanted to change where the inputs where coming from at a later date the code would be able to be changed easily. 
+
+
+
+
 int led1 = 12;   // first LED
 int led2 = 7;    // second LED
 int button = 2;  // push button
